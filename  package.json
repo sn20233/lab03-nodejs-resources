@@ -1,9 +1,10 @@
 {
-    "name": "lab02_cart",
+    "name": "Lab03_WP",
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
     "keywords": [],
     "author": "",
     "license": "ISC"
-}
+   }
+   
